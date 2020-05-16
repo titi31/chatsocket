@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="chatsocket">
+    <output-path>$PROJECT_DIR$/out/artifacts/chatsocket</output-path>
+    <root id="root">
+      <element id="archive" name="chatsocket.jar">
+        <element id="module-output" name="chatsocket" />
+      </element>
+    </root>
+  </artifact>
+</component>
